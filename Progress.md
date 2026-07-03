@@ -14,7 +14,7 @@
 
 ## Overall Progress
 
-- Total Questions: 0 / 200
+- Total Questions: 1 / 200
 - LeetCode: 0
 - HackerRank: 0
-- Custom Problems: 0
+- Custom Problems: 1
