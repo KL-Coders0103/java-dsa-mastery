@@ -10,6 +10,7 @@
 | PB004 | Largest of Two Numbers | Custom | ✅ |
 | PB005 | Largest of Three Numbers | Custom | ✅ |
 | PB006 | Positive Negative or Zero | Custom | ✅ |
+| PB007 | Leap Year | Custom | ✅ |
 | HR001 | Welcome to Java! | HackerRank | ✅ |
 | HR002 | Java Stdin and Stdout I | HackerRank | ✅ |
 | HR003 | Java If-Else | HackerRank | ✅ |
@@ -19,7 +20,7 @@
 
 ## Statistics
 
-- Total Solved: 10
-- Custom: 6
+- Total Solved: 11
+- Custom: 7
 - HackerRank: 4
 - LeetCode: 0
