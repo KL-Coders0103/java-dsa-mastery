@@ -1,21 +1,25 @@
 # Java DSA Progress Tracker
 
-## Phase 1 — Programming Basics
+## Module 01 - Programming Fundamentals
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 01 | Programming Basics | ⏳ |
-| Day 02 | Control Flow | ⬜ |
-| Day 03 | Functions & Recursion | ⬜ |
-| Day 04 | Complexity Analysis | ⬜ |
-| Day 05 | Arrays Basics | ⬜ |
+| ID | Problem | Platform | Status |
+|----|---------|----------|--------|
+| PB001 | Sum of Two Numbers | Custom | ✅ |
+| PB002 | Even or Odd | Custom | ✅ |
+| PB003 | Swap Two Numbers | Custom | ✅ |
+| PB004 | Largest of Two Numbers | Custom | ✅ |
+| PB005 | Largest of Three Numbers | Custom | ✅ |
+| PB006 | Positive Negative or Zero | Custom | ✅ |
+| HR001 | Welcome to Java! | HackerRank | ✅ |
+| HR002 | Java Stdin and Stdout I | HackerRank | ✅ |
+| HR003 | Java If-Else | HackerRank | ✅ |
+| HR004 | Java Loops I | HackerRank | ✅ |
 
 ---
 
-## Overall Progress
+## Statistics
 
-- Total Questions Solved: 9
-- LeetCode: 0
+- Total Solved: 10
+- Custom: 6
 - HackerRank: 4
-- Custom Problems: 5
-- Overall Progress: 9 / 200
+- LeetCode: 0
