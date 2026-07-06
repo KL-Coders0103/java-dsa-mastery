@@ -12,6 +12,7 @@
 | PB006 | Positive Negative or Zero | Custom | ✅ |
 | PB007 | Leap Year | Custom | ✅ |
 | PB008 | Multiplication Table | Custom | ✅ |
+| PB009 | Sum of First N Numbers | Custom | ✅ |
 | HR001 | Welcome to Java! | HackerRank | ✅ |
 | HR002 | Java Stdin and Stdout I | HackerRank | ✅ |
 | HR003 | Java If-Else | HackerRank | ✅ |
@@ -21,7 +22,7 @@
 
 ## Statistics
 
-- Total Solved: 12
-- Custom: 8
+- Total Solved: 13
+- Custom: 9
 - HackerRank: 4
 - LeetCode: 0
