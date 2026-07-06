@@ -14,8 +14,8 @@
 
 ## Overall Progress
 
-- Total Questions Solved: 7
+- Total Questions Solved: 9
 - LeetCode: 0
-- HackerRank: 3
-- Custom Problems: 7
-- Overall Progress: 7 / 200
+- HackerRank: 4
+- Custom Problems: 5
+- Overall Progress: 9 / 200
