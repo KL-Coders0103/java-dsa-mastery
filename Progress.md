@@ -14,6 +14,7 @@
 | PB008 | Multiplication Table | Custom | ✅ |
 | PB009 | Sum of First N Numbers | Custom | ✅ |
 | PB010 | Factorial of Number | Custom | ✅ |
+| PB011 | Prime Number | Custom | ✅ |
 | HR001 | Welcome to Java! | HackerRank | ✅ |
 | HR002 | Java Stdin and Stdout I | HackerRank | ✅ |
 | HR003 | Java If-Else | HackerRank | ✅ |
@@ -23,7 +24,7 @@
 
 ## Statistics
 
-- Total Solved: 14
-- Custom: 10
+- Total Solved: 15
+- Custom: 11
 - HackerRank: 4
 - LeetCode: 0
