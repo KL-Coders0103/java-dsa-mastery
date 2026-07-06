@@ -22,9 +22,17 @@
 
 ---
 
+## Module 02 - Number Manipulation
+
+| ID | Problem | Platform | Status |
+|----|---------|----------|--------|
+| PB012 | Fibonacci Series | Custom | ✅ |
+
+---
+
 ## Statistics
 
-- Total Solved: 15
-- Custom: 11
+- Total Solved: 16
+- Custom: 12
 - HackerRank: 4
 - LeetCode: 0
