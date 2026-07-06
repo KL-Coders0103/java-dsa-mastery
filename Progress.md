@@ -27,12 +27,13 @@
 | ID | Problem | Platform | Status |
 |----|---------|----------|--------|
 | PB012 | Fibonacci Series | Custom | ✅ |
+| PB013 | Count Digits | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 16
-- Custom: 12
+- Total Solved: 17
+- Custom: 13
 - HackerRank: 4
 - LeetCode: 0
