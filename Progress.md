@@ -28,12 +28,13 @@
 |----|---------|----------|--------|
 | PB012 | Fibonacci Series | Custom | ✅ |
 | PB013 | Count Digits | Custom | ✅ |
+| PB014 | Sum of Digits | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 17
-- Custom: 13
+- Total Solved: 18
+- Custom: 14
 - HackerRank: 4
 - LeetCode: 0
