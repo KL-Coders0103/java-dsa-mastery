@@ -31,12 +31,13 @@
 | PB014 | Sum of Digits | Custom | ✅ |
 | PB015 | Reverse a Number | Custom | ✅ |
 | PB016 | Palindrome Number | Custom | ✅ |
+| PB018 | Strong Number | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 20
-- Custom: 16
+- Total Solved: 21
+- Custom: 17
 - HackerRank: 4
 - LeetCode: 0
