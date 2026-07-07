@@ -33,12 +33,13 @@
 | PB016 | Palindrome Number | Custom | ✅ |
 | PB018 | Strong Number | Custom | ✅ |
 | PB019 | Perfect Number | Custom | ✅ |
+| PB020 | GCD | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 22
-- Custom: 18
+- Total Solved: 23
+- Custom: 19
 - HackerRank: 4
 - LeetCode: 0
