@@ -31,6 +31,7 @@
 | PB014 | Sum of Digits | Custom | ✅ |
 | PB015 | Reverse a Number | Custom | ✅ |
 | PB016 | Palindrome Number | Custom | ✅ |
+| PB017 | Armstrong Number | Custom | ✅ |
 | PB018 | Strong Number | Custom | ✅ |
 | PB019 | Perfect Number | Custom | ✅ |
 | PB020 | GCD | Custom | ✅ |
@@ -40,7 +41,7 @@
 
 ## Statistics
 
-- Total Solved: 24
-- Custom: 20
+- Total Solved: 25
+- Custom: 21
 - HackerRank: 4
 - LeetCode: 0
