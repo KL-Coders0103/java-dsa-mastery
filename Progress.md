@@ -20,6 +20,13 @@
 
 | ID | Problem | Platform | Status |
 |----|---------|----------|--------|
+| LC001 | Reverse Integer | Leetcode | ✅ |
+| LC002 | Palindrome Number | Leetcode | ✅ |
+| LC003 | Fibonacci Number | Leetcode | ✅ |
+| LC004 | count the digits that divide a number Number | Leetcode | ✅ |
+| LC005 | Subtract the product and sum of digits of an integer | Leetcode | ✅ |
+| LC006 | Smallest even multiple | Leetcode | ✅ |
+
 
 ---
 
@@ -60,7 +67,7 @@
 
 ## Statistics
 
-- Total Solved: 30
+- Total Solved: 36
 - Custom: 21
 - HackerRank: 9
-- LeetCode: 0
+- LeetCode: 6
