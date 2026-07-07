@@ -34,12 +34,13 @@
 | PB018 | Strong Number | Custom | ✅ |
 | PB019 | Perfect Number | Custom | ✅ |
 | PB020 | GCD | Custom | ✅ |
+| PB021 | LCM | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 23
-- Custom: 19
+- Total Solved: 24
+- Custom: 20
 - HackerRank: 4
 - LeetCode: 0
