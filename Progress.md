@@ -70,7 +70,7 @@
 | ID | Problem | Platform | Status|
 |----|---------|----------|-------|
 | PB022 | Square Pattern | Custom | ✅ |
-<!-- | PB023 | Hollow Square | Custom | ✅ | -->
+| PB023 | Hollow Square | Custom | ✅ |
 <!-- | PB024 | Right Triangle | Custom | ✅ | -->
 <!-- | PB025 | Inverted Triangle | Custom | ✅ | -->
 <!-- | PB026 | Number Triangle | Custom | ✅ | -->
@@ -84,7 +84,7 @@
 
 ## Statistics
 
-- Total Solved: 37
-- Custom: 22
+- Total Solved: 38
+- Custom: 23
 - HackerRank: 9
 - LeetCode: 6
