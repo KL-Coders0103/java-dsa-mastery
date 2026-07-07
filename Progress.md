@@ -30,12 +30,13 @@
 | PB013 | Count Digits | Custom | ✅ |
 | PB014 | Sum of Digits | Custom | ✅ |
 | PB015 | Reverse a Number | Custom | ✅ |
+| PB016 | Palindrome Number | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 19
-- Custom: 15
+- Total Solved: 20
+- Custom: 16
 - HackerRank: 4
 - LeetCode: 0
