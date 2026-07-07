@@ -29,12 +29,13 @@
 | PB012 | Fibonacci Series | Custom | ✅ |
 | PB013 | Count Digits | Custom | ✅ |
 | PB014 | Sum of Digits | Custom | ✅ |
+| PB015 | Reverse a Number | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 18
-- Custom: 14
+- Total Solved: 19
+- Custom: 15
 - HackerRank: 4
 - LeetCode: 0
