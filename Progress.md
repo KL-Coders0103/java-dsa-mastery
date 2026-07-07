@@ -60,7 +60,7 @@
 
 ## Statistics
 
-- Total Solved: 25
+- Total Solved: 30
 - Custom: 21
-- HackerRank: 4
+- HackerRank: 9
 - LeetCode: 0
