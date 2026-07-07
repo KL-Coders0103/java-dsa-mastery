@@ -1,5 +1,28 @@
 # Java DSA Progress Tracker
 
+## HAckerRank
+
+| ID | Problem | Platform | Status |
+|----|---------|----------|--------|
+| HR001 | Welcome to Java! | HackerRank | ✅ |
+| HR002 | Java Stdin and Stdout I | HackerRank | ✅ |
+| HR003 | Java If-Else | HackerRank | ✅ |
+| HR004 | Java Loops I | HackerRank | ✅ |
+| HR005 | Java Loops II | HackerRank | ✅ |
+| HR006 | Java DataTypes | HackerRank | ✅ |
+| HR007 | Java End-Of-File | HackerRank | ✅ |
+| HR008 | Java Int to String | HackerRank | ✅ |
+| HR009 | Java String Reverse | HackerRank | ✅ |
+
+---
+
+## LeetCode
+
+| ID | Problem | Platform | Status |
+|----|---------|----------|--------|
+
+---
+
 ## Module 01 - Programming Fundamentals
 
 | ID | Problem | Platform | Status |
@@ -15,10 +38,6 @@
 | PB009 | Sum of First N Numbers | Custom | ✅ |
 | PB010 | Factorial of Number | Custom | ✅ |
 | PB011 | Prime Number | Custom | ✅ |
-| HR001 | Welcome to Java! | HackerRank | ✅ |
-| HR002 | Java Stdin and Stdout I | HackerRank | ✅ |
-| HR003 | Java If-Else | HackerRank | ✅ |
-| HR004 | Java Loops I | HackerRank | ✅ |
 
 ---
 
