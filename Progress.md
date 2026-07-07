@@ -32,12 +32,13 @@
 | PB015 | Reverse a Number | Custom | ✅ |
 | PB016 | Palindrome Number | Custom | ✅ |
 | PB018 | Strong Number | Custom | ✅ |
+| PB019 | Perfect Number | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 21
-- Custom: 17
+- Total Solved: 22
+- Custom: 18
 - HackerRank: 4
 - LeetCode: 0
