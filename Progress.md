@@ -78,13 +78,13 @@
 | PB028 | Pyramid | Custom | ✅ |
 | PB029 | Inverted Pyramid | Custom | ✅ |
 | PB030 | Diamond | Custom | ✅ |
-<!-- | PB031 | Butterfly Pattern | Custom | ✅ | -->
+| PB031 | Butterfly Pattern | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 45
-- Custom: 30
+- Total Solved: 46
+- Custom: 31
 - HackerRank: 9
 - LeetCode: 6
