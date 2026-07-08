@@ -77,14 +77,14 @@
 | PB027 | Floyd's Triangle | Custom | ✅ |
 | PB028 | Pyramid | Custom | ✅ |
 | PB029 | Inverted Pyramid | Custom | ✅ |
-<!-- | PB030 | Diamond | Custom | ✅ | -->
+| PB030 | Diamond | Custom | ✅ |
 <!-- | PB031 | Butterfly Pattern | Custom | ✅ | -->
 
 ---
 
 ## Statistics
 
-- Total Solved: 44
-- Custom: 29
+- Total Solved: 45
+- Custom: 30
 - HackerRank: 9
 - LeetCode: 6
