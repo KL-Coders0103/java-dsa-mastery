@@ -74,7 +74,7 @@
 | PB024 | Right Triangle | Custom | ✅ |
 | PB025 | Inverted Triangle | Custom | ✅ |
 | PB026 | Number Triangle | Custom | ✅ |
-<!-- | PB027 | Floyd's Triangle | Custom | ✅ | -->
+| PB027 | Floyd's Triangle | Custom | ✅ |
 <!-- | PB028 | Pyramid | Custom | ✅ | -->
 <!-- | PB029 | Inverted Pyramid | Custom | ✅ | -->
 <!-- | PB030 | Diamond | Custom | ✅ | -->
@@ -84,7 +84,7 @@
 
 ## Statistics
 
-- Total Solved: 41
-- Custom: 26
+- Total Solved: 42
+- Custom: 27
 - HackerRank: 9
 - LeetCode: 6
