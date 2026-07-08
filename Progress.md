@@ -75,7 +75,7 @@
 | PB025 | Inverted Triangle | Custom | ✅ |
 | PB026 | Number Triangle | Custom | ✅ |
 | PB027 | Floyd's Triangle | Custom | ✅ |
-<!-- | PB028 | Pyramid | Custom | ✅ | -->
+| PB028 | Pyramid | Custom | ✅ |
 <!-- | PB029 | Inverted Pyramid | Custom | ✅ | -->
 <!-- | PB030 | Diamond | Custom | ✅ | -->
 <!-- | PB031 | Butterfly Pattern | Custom | ✅ | -->
@@ -84,7 +84,7 @@
 
 ## Statistics
 
-- Total Solved: 42
-- Custom: 27
+- Total Solved: 43
+- Custom: 28
 - HackerRank: 9
 - LeetCode: 6
