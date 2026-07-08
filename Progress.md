@@ -73,7 +73,7 @@
 | PB023 | Hollow Square | Custom | ✅ |
 | PB024 | Right Triangle | Custom | ✅ |
 | PB025 | Inverted Triangle | Custom | ✅ |
-<!-- | PB026 | Number Triangle | Custom | ✅ | -->
+| PB026 | Number Triangle | Custom | ✅ |
 <!-- | PB027 | Floyd's Triangle | Custom | ✅ | -->
 <!-- | PB028 | Pyramid | Custom | ✅ | -->
 <!-- | PB029 | Inverted Pyramid | Custom | ✅ | -->
@@ -84,7 +84,7 @@
 
 ## Statistics
 
-- Total Solved: 40
-- Custom: 25
+- Total Solved: 41
+- Custom: 26
 - HackerRank: 9
 - LeetCode: 6
