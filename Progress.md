@@ -13,6 +13,13 @@
 | HR007 | Java End-Of-File | HackerRank | ✅ |
 | HR008 | Java Int to String | HackerRank | ✅ |
 | HR009 | Java String Reverse | HackerRank | ✅ |
+| HR010 | Java Output formatting | HackerRank | ✅ |
+| HR011 | Java Static Iniatilizer Block | HackerRank | ✅ |
+| HR012 | Java Date and Time | HackerRank | ✅ |
+| HR013 | Java Strings Introduction | HackerRank | ✅ |
+| HR014 | Java SubString | HackerRank | ✅ |
+| HR015 | Java Substring Comparisons | HackerRank | ✅ |
+| HR016 | Java Currency Formatter | HackerRank | ✅ |
 
 ---
 
@@ -26,7 +33,17 @@
 | LC004 | count the digits that divide a number Number | Leetcode | ✅ |
 | LC005 | Subtract the product and sum of digits of an integer | Leetcode | ✅ |
 | LC006 | Smallest even multiple | Leetcode | ✅ |
-
+| LC007 | Number of steps to reduce a number to zero | Leetcode | ✅ |
+| LC008 | Add two integers | Leetcode | ✅ |
+| LC009 | Number after double reversal | Leetcode | ✅ |
+| LC010 | Convert the temperature | Leetcode | ✅ |
+| LC011 | Add digits | Leetcode | ✅ |
+| LC012 | Sum multiplies | Leetcode | ✅ |
+| LC013 | Self Dividing numbers | Leetcode | ✅ |
+| LC014 | Perfect Number | Leetcode | ✅ |
+| LC015 | Power of Two | Leetcode | ✅ |
+| LC016 | Power of Three | Leetcode | ✅ |
+| LC017 | Power of Four | Leetcode | ✅ |
 
 ---
 
@@ -84,7 +101,7 @@
 
 ## Statistics
 
-- Total Solved: 46
+- Total Solved: 64
 - Custom: 31
-- HackerRank: 9
-- LeetCode: 6
+- HackerRank: 16
+- LeetCode: 17
