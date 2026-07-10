@@ -109,12 +109,13 @@
 | PB035 | Smallest Element in Array | Custom | ✅ |
 | PB036 | Second Largest Element in Array | Custom | ✅ |
 | PB037 | Reverse Array | Custom | ✅ |
+| PB038 | Linear Search | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 70
-- Custom: 37
+- Total Solved: 71
+- Custom: 38
 - HackerRank: 16
 - LeetCode: 17
