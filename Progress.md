@@ -107,12 +107,13 @@
 | PB033 | Sum of Element of Array | Custom | ✅ |
 | PB034 | Largest Element in Array | Custom | ✅ |
 | PB035 | Smallest Element in Array | Custom | ✅ |
+| PB036 | Second Largest Element in Array | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 68
-- Custom: 35
+- Total Solved: 69
+- Custom: 36
 - HackerRank: 16
 - LeetCode: 17
