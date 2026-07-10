@@ -104,6 +104,7 @@
 | ID | Problem | Platform | Status|
 |----|---------|----------|-------|
 | PB032 | Read and Print Array | Custom | ✅ |
+| PB033 | Sum of Element of Array | Custom | ✅ |
 
 ---
 
