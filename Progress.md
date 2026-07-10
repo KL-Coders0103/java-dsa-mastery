@@ -108,12 +108,13 @@
 | PB034 | Largest Element in Array | Custom | ✅ |
 | PB035 | Smallest Element in Array | Custom | ✅ |
 | PB036 | Second Largest Element in Array | Custom | ✅ |
+| PB037 | Reverse Array | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 69
-- Custom: 36
+- Total Solved: 70
+- Custom: 37
 - HackerRank: 16
 - LeetCode: 17
