@@ -99,9 +99,17 @@
 
 ---
 
+## Module 04 - Arrays
+
+| ID | Problem | Platform | Status|
+|----|---------|----------|-------|
+| PB032 | Read and Print Array | Custom | ✅ |
+
+---
+
 ## Statistics
 
-- Total Solved: 64
-- Custom: 31
+- Total Solved: 65
+- Custom: 32
 - HackerRank: 16
 - LeetCode: 17
