@@ -105,12 +105,13 @@
 |----|---------|----------|-------|
 | PB032 | Read and Print Array | Custom | ✅ |
 | PB033 | Sum of Element of Array | Custom | ✅ |
+| PB034 | Largest Element in Array | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 65
-- Custom: 32
+- Total Solved: 67
+- Custom: 34
 - HackerRank: 16
 - LeetCode: 17
