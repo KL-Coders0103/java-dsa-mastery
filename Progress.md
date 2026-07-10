@@ -106,12 +106,13 @@
 | PB032 | Read and Print Array | Custom | ✅ |
 | PB033 | Sum of Element of Array | Custom | ✅ |
 | PB034 | Largest Element in Array | Custom | ✅ |
+| PB035 | Smallest Element in Array | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 67
-- Custom: 34
+- Total Solved: 68
+- Custom: 35
 - HackerRank: 16
 - LeetCode: 17
