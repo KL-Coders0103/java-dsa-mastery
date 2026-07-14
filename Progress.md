@@ -112,12 +112,13 @@
 | PB038 | Linear Search | Custom | ✅ |
 | PB039 | Count Even and odd Digits in array | Custom | ✅ |
 | PB040 | Check if Array is sorted or not | Custom | ✅ |
+| PB041 | Frequency of an Element | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 73
-- Custom: 40
+- Total Solved: 74
+- Custom: 41
 - HackerRank: 16
 - LeetCode: 17
