@@ -111,12 +111,13 @@
 | PB037 | Reverse Array | Custom | ✅ |
 | PB038 | Linear Search | Custom | ✅ |
 | PB039 | Count Even and odd Digits in array | Custom | ✅ |
+| PB040 | Check if Array is sorted or not | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 72
-- Custom: 39
+- Total Solved: 73
+- Custom: 40
 - HackerRank: 16
 - LeetCode: 17
