@@ -110,12 +110,13 @@
 | PB036 | Second Largest Element in Array | Custom | ✅ |
 | PB037 | Reverse Array | Custom | ✅ |
 | PB038 | Linear Search | Custom | ✅ |
+| PB039 | Count Even and odd Digits in array | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 71
-- Custom: 38
+- Total Solved: 72
+- Custom: 39
 - HackerRank: 16
 - LeetCode: 17
