@@ -20,6 +20,8 @@
 | HR014 | Java SubString | HackerRank | ✅ |
 | HR015 | Java Substring Comparisons | HackerRank | ✅ |
 | HR016 | Java Currency Formatter | HackerRank | ✅ |
+| HR017 | Java 1D Array | HackerRank | ✅ |
+| HR018 | Java 1D Array (Part 2) | HackerRank | ✅ |
 
 ---
 
@@ -44,6 +46,15 @@
 | LC015 | Power of Two | Leetcode | ✅ |
 | LC016 | Power of Three | Leetcode | ✅ |
 | LC017 | Power of Four | Leetcode | ✅ |
+| LC018 | Build Array from Permuation | Leetcode | ✅ |
+| LC019 | Running Sum of 1D Array | Leetcode | ✅ |
+| LC020 | Concatenation of Array | Leetcode | ✅ |
+| LC021 | Shuffle the Array | Leetcode | ✅ |
+| LC022 | Richest Customer Wealth | Leetcode | ✅ |
+| LC023 | find the Highest Altitude | Leetcode | ✅ |
+| LC024 | Kids with Maximum Candies | Leetcode | ✅ |
+| LC025 | Max Consecutive Ones | Leetcode | ✅ |
+| LC026 | Numbers smaller than current number | Leetcode | ✅ |
 
 ---
 
@@ -118,7 +129,7 @@
 
 ## Statistics
 
-- Total Solved: 74
+- Total Solved: 85
 - Custom: 41
-- HackerRank: 16
-- LeetCode: 17
+- HackerRank: 18
+- LeetCode: 26
