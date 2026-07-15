@@ -138,12 +138,13 @@
 | PB043 | String Length | Custom | ✅ |
 | PB044 | Reverse String | Custom | ✅ |
 | PB045 | Palindrome String | Custom | ✅ |
+| PB046 | Count Vowels and Consonants | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 92
-- Custom: 45
+- Total Solved: 93
+- Custom: 46
 - HackerRank: 21
 - LeetCode: 26
