@@ -135,12 +135,13 @@
 | ID | Problem | Platform | Status|
 |----|---------|----------|-------|
 | PB042 | String Input and Output | Custom | ✅ |
+| PB043 | String Length | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 89
-- Custom: 42
+- Total Solved: 90
+- Custom: 43
 - HackerRank: 21
 - LeetCode: 26
