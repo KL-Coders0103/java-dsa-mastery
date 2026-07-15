@@ -137,12 +137,13 @@
 | PB042 | String Input and Output | Custom | ✅ |
 | PB043 | String Length | Custom | ✅ |
 | PB044 | Reverse String | Custom | ✅ |
+| PB045 | Palindrome String | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 91
-- Custom: 44
+- Total Solved: 92
+- Custom: 45
 - HackerRank: 21
 - LeetCode: 26
