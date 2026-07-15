@@ -22,6 +22,9 @@
 | HR016 | Java Currency Formatter | HackerRank | ✅ |
 | HR017 | Java 1D Array | HackerRank | ✅ |
 | HR018 | Java 1D Array (Part 2) | HackerRank | ✅ |
+| HR019 | Java ArrayList | HackerRank | ✅ |
+| HR020 | Java SubArray | HackerRank | ✅ |
+| HR021 | Java 2D Array | HackerRank | ✅ |
 
 ---
 
@@ -127,9 +130,17 @@
 
 ---
 
+## Module 05 - Strings
+
+| ID | Problem | Platform | Status|
+|----|---------|----------|-------|
+| PB042 | String Input and Output | Custom | ✅ |
+
+---
+
 ## Statistics
 
-- Total Solved: 85
-- Custom: 41
-- HackerRank: 18
+- Total Solved: 89
+- Custom: 42
+- HackerRank: 21
 - LeetCode: 26
