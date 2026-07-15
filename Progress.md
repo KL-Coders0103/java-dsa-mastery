@@ -136,12 +136,13 @@
 |----|---------|----------|-------|
 | PB042 | String Input and Output | Custom | ✅ |
 | PB043 | String Length | Custom | ✅ |
+| PB044 | Reverse String | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 90
-- Custom: 43
+- Total Solved: 91
+- Custom: 44
 - HackerRank: 21
 - LeetCode: 26
