@@ -143,12 +143,13 @@
 | PB048 | Character Frequency | Custom | ✅ |
 | PB049 | Toggle case | Custom | ✅ |
 | PB050 | Remove Spaces from String | Custom | ✅ |
+| PB051 | Check Anagram | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 97
-- Custom: 50
+- Total Solved: 98
+- Custom: 51
 - HackerRank: 21
 - LeetCode: 26
