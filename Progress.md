@@ -142,12 +142,13 @@
 | PB047 | Count Words | Custom | ✅ |
 | PB048 | Character Frequency | Custom | ✅ |
 | PB049 | Toggle case | Custom | ✅ |
+| PB050 | Remove Spaces from String | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 96
-- Custom: 49
+- Total Solved: 97
+- Custom: 50
 - HackerRank: 21
 - LeetCode: 26
