@@ -140,12 +140,13 @@
 | PB045 | Palindrome String | Custom | ✅ |
 | PB046 | Count Vowels and Consonants | Custom | ✅ |
 | PB047 | Count Words | Custom | ✅ |
+| PB048 | Character Frequency | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 94
-- Custom: 47
+- Total Solved: 95
+- Custom: 48
 - HackerRank: 21
 - LeetCode: 26
