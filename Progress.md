@@ -141,12 +141,13 @@
 | PB046 | Count Vowels and Consonants | Custom | ✅ |
 | PB047 | Count Words | Custom | ✅ |
 | PB048 | Character Frequency | Custom | ✅ |
+| PB049 | Toggle case | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 95
-- Custom: 48
+- Total Solved: 96
+- Custom: 49
 - HackerRank: 21
 - LeetCode: 26
