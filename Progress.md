@@ -139,12 +139,13 @@
 | PB044 | Reverse String | Custom | ✅ |
 | PB045 | Palindrome String | Custom | ✅ |
 | PB046 | Count Vowels and Consonants | Custom | ✅ |
+| PB047 | Count Words | Custom | ✅ |
 
 ---
 
 ## Statistics
 
-- Total Solved: 93
-- Custom: 46
+- Total Solved: 94
+- Custom: 47
 - HackerRank: 21
 - LeetCode: 26
